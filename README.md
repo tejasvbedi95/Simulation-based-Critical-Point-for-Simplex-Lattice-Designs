@@ -1,0 +1,1 @@
+# Simulation-based-Critical-Point-for-Simplex-Lattice-Designs
